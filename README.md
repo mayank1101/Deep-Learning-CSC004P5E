@@ -1,4 +1,4 @@
-# Group Assignment for Deep Learning Course - (CSC004P5E)
+# Deep Learning Course - (CSC004P5E)
 ## M.Tech (Semester 3)
 ### Taught by Professor [Dr. Yamuna Prasad](https://iitjammu.ac.in/faculty-page/~yamunaprasad)
 
