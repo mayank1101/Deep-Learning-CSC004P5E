@@ -15,4 +15,4 @@
 * Autoencoders
 * generative adversarial networks (GAN)
 
-**NOTE** I will add more topics as they are covered.
+**NOTE:** I will add more topics as they are covered.
